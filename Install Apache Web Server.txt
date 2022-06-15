@@ -12,3 +12,13 @@ httpd -v
 
 
 
+sudo yum install -y httpd.x86_64
+
+sudo systemctl start httpd.service
+
+sudo systemctl status httpd.service
+
+sudo systemctl enable httpd.service
+
+
+
