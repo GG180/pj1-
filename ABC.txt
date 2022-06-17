@@ -1,0 +1,44 @@
+MASTER  - FOLDER 
+
+  java game -1 ---- 10 m - LEV -1  -  GIT X  ( COPY .PASTE , STOR ) ( 10 COMIT ) 
+JAVE GAME -2 -- 10 M - LEV 2 - GIT Y 
+
+
+JAVA GAME 4 --> 9 + 1 M  LEV 4 - Z ( 1 ) OLD CODE Z CODING MODE 
+
+JAVA CODING 
+
+
+CAR GAME V1 -- GIT 
+
+AWS - ADMIN -- CAR ( ADMIN ) 
+
+DEVOPS -- GIT ( ADMIN ) CAR DATA -- > LINK 
+
+DEVOPS -- GIT 
+
+
+CAR GAME V2  - ( FEAUTUR ) ( COPY MST) 
+ ( CODING - BUILD , -SUCCESS FUL RUNNING CODDING THEN -- CI/CD --  ANSIBLE , )TEST - Q/A  
+
+  java game -1 ---- 10 m - LEV -1  
+JAVE GAME -2 -- 10 M - LEV 2 
+
+
+JAVA GAME 4 --> 9 + 1 M  LEV 4 
+
+CARE 
+
+VCS -- VERSION CONTROL SYSTEM 
+ LIVE ERROR -- V2 , V1 ( BANKING )  
+
+
+LATESH -2019 --OS ( CAR ) -- LIVE 
+
+
+2012 -- N/W -- UPDADE 
+
+ 2K 
+
+
+LINUX --- 
